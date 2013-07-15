@@ -10,8 +10,8 @@ alias fgrep='fgrep --color=auto'
 #alias la='ls -A'
 #alias ll='ls -alF'
 alias ls='ls --color=auto'
-
-
+alias gpush='git push -u origin master'
+alias gcommit='git commit -a -m'
 
 
 #Custom Prompt color
